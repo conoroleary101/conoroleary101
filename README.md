@@ -15,7 +15,7 @@ I'm a computer science student currently studying Software Development at Munste
 
 🛠️ Tech & Tools:
 - Python, C, SQL, Java, JavaScript, R
-- Git, Cisco Packet Tracer
+- Git
 
 🎯 Interests:
 - Software development
